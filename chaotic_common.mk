@@ -5,7 +5,7 @@
 #
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += device/google/gs101/overlay-lineage
+DEVICE_PACKAGE_OVERLAYS += device/google/gs101/overlay-chaotic
 
 # AiAi Config
 PRODUCT_COPY_FILES += \

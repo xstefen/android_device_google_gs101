@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings;
+package org.chaoticos.settings;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
